@@ -1,4 +1,5 @@
 baseURL = "https://alifenamedblog.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bryce's Brain"
 theme = "ananke"
+newContentEditor = "nano"
