@@ -10,4 +10,5 @@ Welcome to my site. This is a little side project that I started a few months ba
 Soon there will be more posts to read and who knows, hopefully you will like a few.
 
 Enjoy,
+
 b
