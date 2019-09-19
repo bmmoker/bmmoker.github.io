@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/bmmoker/bmmoker.github.io
 	branch = master
+	[submodule "themes/solar-theme-hugo"]
+		path = themes/solar-theme-hugo
+		url = https://github.com/bake/solar-theme-hugo.git
