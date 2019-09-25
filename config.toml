@@ -3,3 +3,10 @@ languageCode = "en-us"
 title = "The World According to Bryce"
 theme = "solar-theme-hugo"
 newContentEditor = "nano"
+#[menu]
+
+#  [[menu.main]]
+#    identifer = "about"
+#    name = "About Site"
+#    title = "About"
+#    url = "/about/"
