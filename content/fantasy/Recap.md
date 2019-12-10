@@ -1,6 +1,5 @@
 ---
-title: "It's the time of the year"
-date: 2019-09-16T03:41:16Z
+date: 2019-12-08T03:41:16Z
 
 ---
 
@@ -67,7 +66,7 @@ Enter your finalists. After torching the start of the season but staggering out 
 * Record 7-6
 
 This one gets a gif:
-![](giphy.gif)
+![](KronkMap.gif)
 
 This one doesn’t make sense. The least points for was sitting at 7-4 at one point and still somehow finished with more points for than points against. A late 3 game win streak where and 2 wins in 4 weeks despite putting up less than 100 points is still feat within itself. I guess true randomness is a good plan since you can’t prepare for it
 
@@ -90,7 +89,7 @@ Somehow, someway Yahoo thought this was a 12-1 team. 12-1 in a 10 man league sou
 * Actual Finish: 2nd
 * Record 8-5
 
-The points for champion finished the last 9 weeks scoring more than 100 points. They sprinted out to a 7-1 record helping them clinch the playoffs early, maybe a little too early as they then proceeded to drop 4 out of the last 5 games and 3 in a row. Tough tough way to end the season by losing by .02 and then the battle for the #1 seed in weeks 12/13
+The points for champion finished the last 9 weeks scoring more than 100 points. They sprinted out to a 7-1 record helping them clinch the playoffs early, maybe a little too early as they then proceeded to drop 4 out of the last 5 games and 3 in a row. Tough tough way to end the season by losing by .02 and then the battle for the number one seed in weeks 12/13
 
 ### 01 - Le Freak C’est Zeke
 * Projected Finish: 7th
@@ -98,7 +97,7 @@ The points for champion finished the last 9 weeks scoring more than 100 points. 
 * Record 9-4
 
 Freak out!
-![](giphy.gif)
+![](LeFreak.gif)
 
 It’s not over but I have been waiting a long time for this one. After an 0-3 start to the season, the rumors roamed, the haters hated, the doubters doubted. _#washedup_ was trending on twitter yet when the clock struck midnight, Le Freak had the golden slipper of best record (and if you don’t think that If I lose the trophy that I won’t get an engraved glass slipper you are our of your mind). After the 3rd loss, Le Freak was trending in the right direction and tore off a 6 game win streak until a fluke loss in week 10 thanks to a Kupp goose egg. Well then until finishing strong with 3 straight wins to close the season with a 9-1 record over the last 10 games and the least amount of games under 100 (2).
 
@@ -108,20 +107,18 @@ It’s not over but I have been waiting a long time for this one. After an 0-3 s
 Give me Dak Dak over Reindeers. The Reindeers are banged up and riding on the banged up steelers. Dak Dak can always put up points
 * ElementaryDearWatson vs Life’s a Brees
 I’ll take EDW for the same reason as I’m taking Dak Dak and this team can explode and I think there’s one in them. Also see post on LaB and their scoring woes
+* _update:_ as of the original writing these were my predictions and barring a huge night from Barkley I will be 0-2 with these
 
 ## and a special thanks to…
 Max
 
 I mean look at this guy:
-![](giphy.gif)
+![](MaxCute.gif)
 
-He could only carry one team from the depths of the winless cave all the way to the top of Mt Crumpit with the singular goal of cutting the roast beast. And that was me (sorry to jalc and IF). But it’s important to take a moment and appreciate those who do the right thing, which is why IMO, max is the real reason Christmas was saved and the real hero of _Dr. Seuss’s Hoe the Grinch Stole Christmas_ .  One could argue that he staged the events of the movie in order to show the Grinch what Christmas really means, slowly planting ideas in The Grinch’s head, reminding him how much he hates Christmas. Which then drives the grinch to committing the ultimate heist. He goes as far as dragging the goods upit to Crumpit (he’s committed to the cause, that’s dedication right there). $5 he knew The Who’s would who a triumphant Welcome Christmas ( the fahoo fores song) and the Grinch would realize what it means to Christmas.
+He could only carry one team from the depths of the winless cave all the way to the top of Mt Crumpit with the singular goal of cutting the roast beast. And that was me (sorry to jalc and IF). But it’s important to take a moment and appreciate those who do the right thing, which is why IMO, Max is the real reason Christmas was saved and the real hero of _Dr. Seuss’s Hoe the Grinch Stole Christmas_. One could argue that he staged the events of the movie in order to show the Grinch what Christmas really means, slowly planting ideas in The Grinch’s head, reminding him how much he hates Christmas. Which then drives the grinch to committing the ultimate heist. He goes as far as dragging the goods upit to Crumpit (he’s committed to the cause, that’s dedication right there). $5 he knew The Who’s would who a triumphant Welcome Christmas ( the fahoo fores song) and the Grinch would realize what it means to Christmas.
 
 Be Like Max
 
 Bonus content:
 
-We can see below that given the amount of energy that the grinch would have had to use to pull the sled back would have to be very large. So large that it would be incredibly tough to maintain balance when the sled swung to the other side while going over his head. Being such a good boy, Max is aware to jump and grab the sled, changing it’s directory and stabilizing it. Thus saving Christmas
-![](giphy.gif)
-
-#brycemokerdotcom
+We can see below that given the amount of energy that the grinch would have had to use to pull the sled back would have to be very large. So large that it would be incredibly tough to maintain balance when the sled swung to the other side while going over his head. Being such a good boy, Max is aware to jump and grab the sled, changing it’s directory and stabilizing it. ![Thus saving Christmas](/GrinchTriumphant.gif)
