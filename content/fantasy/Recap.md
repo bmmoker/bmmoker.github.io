@@ -7,16 +7,16 @@ date: 2019-12-08T03:41:16Z
 ## A brief poem from the office of the FNC
 _An Ode to Joy_
 
-It’s that time of year
-The time, oh the time, that brings us all cheer
-Except for a select few
-Who’s paths unluckily did not stay true
-To the mission, the climb
-An entire season and no phone chimes
-But alas, as more will join you
-As only one team can complete the coup
-Or will it stay close and near?
-For losing the trophy, I do not fear
+It’s that time of year  
+The time, oh the time, that brings us all cheer  
+Except for a select few  
+Who’s paths unluckily did not stay true  
+To the mission, the climb  
+An entire season and no phone chimes  
+But alas, as more will join you  
+As only one team can complete the coup  
+Or will it stay close and near?  
+For losing the trophy, I do not fear  
 
 _Friendly Neighborhood Commissioner_
 
