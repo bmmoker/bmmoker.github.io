@@ -115,9 +115,11 @@ Max
 I mean look at this guy:
 ![Max](/MaxCute.gif)
 
-He could only carry one team from the depths of the winless cave all the way to the top of Mt Crumpit with the singular goal of cutting the roast beast. And that was me (sorry to jalc and IF). But it’s important to take a moment and appreciate those who do the right thing, which is why IMO, Max is the real reason Christmas was saved and the real hero of _Dr. Seuss’s How the Grinch Stole Christmas_. One could argue that he staged the events of the movie in order to show the Grinch what Christmas really means. Slowly, Max was planting ideas in The Grinch’s head, reminding him how much he hates Christmas and driving the Grinch to committing the ultimate heist. He, Max, goes as far as dragging the goods upit to Crumpit (Max is committed to the cause, that’s dedication right there). $5 says he knew The Who’s would who a triumphant Welcome Christmas (the fahoo fores song)<iframe width="666" height="500" src="https://www.youtube.com/embed/QiOBwLLSpI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> and the Grinch would realize what it means to Christmas.
+He could only carry one team from the depths of the winless cave all the way to the top of Mt Crumpit with the singular goal of cutting the roast beast. And that was me (sorry to jalc and IF). But it’s important to take a moment and appreciate those who do the right thing, which is why IMO, Max is the real reason Christmas was saved and the real hero of _Dr. Seuss’s How the Grinch Stole Christmas_. One could argue that he staged the events of the movie in order to show the Grinch what Christmas really means. Slowly, Max was planting ideas in The Grinch’s head, reminding him how much he hates Christmas and driving the Grinch to committing the ultimate heist. He, Max, goes as far as dragging the goods upit to Crumpit (Max is committed to the cause, that’s dedication right there). $5 says he knew The Who’s would who a triumphant Welcome Christmas (the fahoo fores song) and the Grinch would realize what it means to Christmas.
 
 Be Like Max
+
+<iframe width="666" height="500" src="https://www.youtube.com/embed/QiOBwLLSpI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Bonus content:_
 
