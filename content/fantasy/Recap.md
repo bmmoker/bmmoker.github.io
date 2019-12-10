@@ -65,7 +65,8 @@ Enter your finalists. After torching the start of the season but staggering out 
 * Actual Finish: 5th
 * Record 7-6
 
-![This one gets a gif:](KronkMap.gif)
+This one gets a gif:
+![KronkMap](/KronkMap.gif)
 
 This one doesn’t make sense. The least points for was sitting at 7-4 at one point and still somehow finished with more points for than points against. A late 3 game win streak where and 2 wins in 4 weeks despite putting up less than 100 points is still feat within itself. I guess true randomness is a good plan since you can’t prepare for it
 
@@ -95,7 +96,8 @@ The points for champion finished the last 9 weeks scoring more than 100 points. 
 * Actual Finish: 1st
 * Record 9-4
 
-![Freak out!](LeFreak.gif)
+Freak out!
+![Freak out!](/LeFreak.gif)
 
 It’s not over but I have been waiting a long time for this one. After an 0-3 start to the season, the rumors roamed, the haters hated, the doubters doubted. _#washedup_ was trending on twitter yet when the clock struck midnight, Le Freak had the golden slipper of best record (and if you don’t think that If I lose the trophy that I won’t get an engraved glass slipper you are our of your mind). After the 3rd loss, Le Freak was trending in the right direction and tore off a 6 game win streak until a fluke loss in week 10 thanks to a Kupp goose egg. Well then until finishing strong with 3 straight wins to close the season with a 9-1 record over the last 10 games and the least amount of games under 100 (2).
 
@@ -110,7 +112,8 @@ I’ll take EDW for the same reason as I’m taking Dak Dak and this team can ex
 ## and a special thanks to…
 Max
 
-![I mean look at this guy:](MaxCute.gif)
+I mean look at this guy:
+![Max](/MaxCute.gif)
 
 He could only carry one team from the depths of the winless cave all the way to the top of Mt Crumpit with the singular goal of cutting the roast beast. And that was me (sorry to jalc and IF). But it’s important to take a moment and appreciate those who do the right thing, which is why IMO, Max is the real reason Christmas was saved and the real hero of _Dr. Seuss’s Hoe the Grinch Stole Christmas_. One could argue that he staged the events of the movie in order to show the Grinch what Christmas really means, slowly planting ideas in The Grinch’s head, reminding him how much he hates Christmas. Which then drives the grinch to committing the ultimate heist. He goes as far as dragging the goods upit to Crumpit (he’s committed to the cause, that’s dedication right there). $5 he knew The Who’s would who a triumphant Welcome Christmas ( the fahoo fores song) and the Grinch would realize what it means to Christmas.
 
@@ -118,4 +121,5 @@ Be Like Max
 
 Bonus content:
 
-We can see below that given the amount of energy that the grinch would have had to use to pull the sled back would have to be very large. So large that it would be incredibly tough to maintain balance when the sled swung to the other side while going over his head. Being such a good boy, Max is aware to jump and grab the sled, changing it’s directory and stabilizing it. ![Thus saving Christmas](/GrinchTriumphant.gif)
+We can see below that given the amount of energy that the grinch would have had to use to pull the sled back would have to be very large. So large that it would be incredibly tough to maintain balance when the sled swung to the other side while going over his head. Being such a good boy, Max is aware to jump and grab the sled, changing it’s directory and stabilizing it. Thus saving Christmas
+![MaxSavesChristmas](/GrinchTriumphant.gif)
