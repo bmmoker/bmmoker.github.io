@@ -1,9 +1,9 @@
 ---
+title: What a Wonderful World
 date: 2019-12-08T03:41:16Z
 
 ---
 
-# It’s that time of the year
 ## A brief poem from the office of the FNC
 _An Ode to Joy_
 
